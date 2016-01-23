@@ -4,7 +4,7 @@ title: "Pluralsight's Advanced Git"
 date: 2016-01-01
 ---
 
-``` shell
+``` bash
 git add -p # add lines interactively
 # Have git branch and commit id in zsh prompt
 git reflog
