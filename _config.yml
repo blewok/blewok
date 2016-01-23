@@ -1,7 +1,7 @@
 # build
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: redcarpet
+#kramdown:
+#  input: GFM
 #  syntax_highlighter: rouge
 permalink: /blog/:year/:title/
 exclude:
